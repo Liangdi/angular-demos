@@ -1,0 +1,9 @@
+{
+  "TITLE": "Hello World!",
+  "SUB":{
+    "TEST":"test content"
+  },
+  "SERVER":{
+    "ERROR":"server error:500"
+  }
+}
